@@ -1,7 +1,7 @@
 ### Voila! Arya here - aka [TheKiller] 👋 
 
-[![LinkedIn Connect](https://img.shields.io/website?label=AryaWadhwani&style=for-the-badge&url=https%3A%2F%2FAryaWadhwani)](https://www.linkedin.com/in/arya-wadhwani-9a5171212/)
-[![Instagram Follow](https://img.shields.io/instagram/follow/TheKiller?color=E4405F&logo=instagram&style=for-the-badge)](https://www.instagram.com/arya_thekiller_wadhwani/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/arya-wadhwani-9a5171212/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-%23E4405F)](https://www.instagram.com/arya_thekiller_wadhwani/)
 
 ## Hustler and always working wherever I go !!
 
