@@ -40,6 +40,11 @@
 - [Hackathon Vs Codethon Vs Ideathon](https://medium.com/student-technical-community-vit-vellore/hackathon-vs-codeathon-vs-ideathon-a15f7e1df131)
 <!-- BLOG-POST-LIST:END -->
 
+## My Stats
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arya-Wadhwani07&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Wadhwani07&layout=compact&theme=radical" />
+</p>
 
 ➡️ [more blog posts...](https://arya-wadhwani.medium.com/)
 
