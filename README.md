@@ -1,7 +1,7 @@
 ### Voila! Arya here - aka [TheKiller] 👋 
 
-[![LinkedIn Connect](https://img.shields.io/website?label=AryaWadhwani&style=for-the-badge&url=https%3A%2F%2FAryaWadhwani)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/twitter/follow/TheKiller?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![LinkedIn Connect](https://img.shields.io/website?label=AryaWadhwani&style=for-the-badge&url=https%3A%2F%2FAryaWadhwani)](https://www.linkedin.com/in/arya-wadhwani-9a5171212/)
+[![Instagram Follow](https://img.shields.io/twitter/follow/TheKiller?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/arya_thekiller_wadhwani/)
 
 ## Hustler and always working wherever I go !!
 
