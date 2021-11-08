@@ -34,10 +34,6 @@
 [<img align="left" alt="Python" width="35px" src="https://img.icons8.com/color/48/000000/python--v2.png"/>]
 [<img align="left" alt="Heroku" width="35px" src="https://img.icons8.com/color/100/000000/heroku.png"/>]
 
-<br />
-<br />
-
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
