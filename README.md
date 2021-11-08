@@ -1,4 +1,4 @@
-### Voila! Arya here - aka [TheKiller] 👋 
+### Voila! Arya here - aka "TheKiller" 👋 
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/arya-wadhwani-9a5171212/)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-%23E4405F)](https://www.instagram.com/arya_thekiller_wadhwani/)
