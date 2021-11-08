@@ -35,16 +35,15 @@
 [<img align="left" alt="Heroku" width="35px" src="https://img.icons8.com/color/100/000000/heroku.png"/>]
 
 ### 📕 Latest Blog Posts
-<br />
+
 <!-- BLOG-POST-LIST:START -->
 - [Hackathon Vs Codethon Vs Ideathon](https://medium.com/student-technical-community-vit-vellore/hackathon-vs-codeathon-vs-ideathon-a15f7e1df131)
 <!-- BLOG-POST-LIST:END -->
-</br>
 
 ## My Stats
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arya-Wadhwani07&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Wadhwani07&layout=compact&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arya-Wadhwani07&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Wadhwani07&layout=compact&theme=dark&exclude_repo=STC_DS_Tasks" />
 </p>
 
 ➡️ [more blog posts...](https://arya-wadhwani.medium.com/)
