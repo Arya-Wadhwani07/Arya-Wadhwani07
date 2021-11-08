@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Arya-Wadhwani07" width="30px" src="https://img.icons8.com/color-glass/100/000000/github.png"/>][website]
 [<img align="left" alt="AryaWadhwani | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="arya_thekiller_wadhwani | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="arya_thekiller_wadhwani | Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][instagram]
 
 <br />
 
