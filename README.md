@@ -35,10 +35,11 @@
 [<img align="left" alt="Heroku" width="35px" src="https://img.icons8.com/color/100/000000/heroku.png"/>]
 
 ### 📕 Latest Blog Posts
-
+<br />
 <!-- BLOG-POST-LIST:START -->
 - [Hackathon Vs Codethon Vs Ideathon](https://medium.com/student-technical-community-vit-vellore/hackathon-vs-codeathon-vs-ideathon-a15f7e1df131)
 <!-- BLOG-POST-LIST:END -->
+</br>
 
 ## My Stats
 <p>
