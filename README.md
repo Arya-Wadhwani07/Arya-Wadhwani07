@@ -8,7 +8,7 @@
   <a href="https://github.com/Arya-Wadhwani07">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github" />
   </a>
-  <a href="https://drive.google.com/https://drive.google.com/file/d/1Q3Qyzfgo7Pyjz_UOZ7m8xb-u9OSF_2Ds/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1Q3Qyzfgo7Pyjz_UOZ7m8xb-u9OSF_2Ds/view?usp=share_link">
     <img src="https://img.shields.io/badge/Resume-Download-green?style=flat&logo=google-drive" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Arya-Wadhwani07&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 **MS in Computer Science @ University of Southern California**  
-🎓 **B.Tech CSE @ VIT Vellore (CGPA: 9.58/10)**  
+🎓 **MS in Computer Science @ University of Southern California**
+🎓 **B.Tech CSE @ VIT Vellore (CGPA: 9.58/10)**
 
-I’m a **Software Engineering intern candidate** with **production experience at Hewlett Packard Enterprise**, where I worked on **large-scale storage systems, backend automation, and real-time monitoring dashboards**.
+I'm a **Software Engineering intern candidate** with **production experience at Hewlett Packard Enterprise**, where I worked on **large-scale storage systems, backend automation, and real-time monitoring dashboards**.
 
 I enjoy building **reliable, scalable systems**, optimizing **backend performance**, and working across **distributed systems, ML-backed services, and full-stack platforms**.
 
@@ -58,10 +58,10 @@ I enjoy building **reliable, scalable systems**, optimizing **backend performanc
 
 ---
 
-## 📊 GitHub Activity (Auto-Synced)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya-Wadhwani07&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arya-Wadhwani07&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -74,10 +74,18 @@ I enjoy building **reliable, scalable systems**, optimizing **backend performanc
 
 ---
 
-## 🔥 Contribution Graph (Recruiter Favorite)
+## 📅 Commit History
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya-Wadhwani07&theme=github-compact&hide_border=true" />
+  <img src="https://ghchart.rshah.org/Arya-Wadhwani07" alt="Arya's Commit History Chart" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arya-Wadhwani07&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20History%20(All%20Time)" />
 </p>
 
 ---
@@ -128,7 +136,7 @@ I enjoy building **reliable, scalable systems**, optimizing **backend performanc
 
 ---
 
-## 🎯 What I’m Looking For
+## 🎯 What I'm Looking For
 
 - **Software Engineering Intern (Backend / Systems / Full-Stack)**
 - Teams working on **scalable infrastructure, data pipelines, ML systems**
@@ -136,11 +144,11 @@ I enjoy building **reliable, scalable systems**, optimizing **backend performanc
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-📧 **Email:** arya.wadhwani@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/arya-jay-wadhwani  
-📄 **Resume:** https://drive.google.com/https://drive.google.com/file/d/1Q3Qyzfgo7Pyjz_UOZ7m8xb-u9OSF_2Ds/view?usp=share_link 
+📧 **Email:** arya.wadhwani@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/arya-jay-wadhwani
+📄 **Resume:** https://drive.google.com/file/d/1Q3Qyzfgo7Pyjz_UOZ7m8xb-u9OSF_2Ds/view?usp=share_link
 💻 **GitHub:** https://github.com/Arya-Wadhwani07
 
 ⭐ *If you find my work interesting, feel free to explore my repositories or reach out!*
